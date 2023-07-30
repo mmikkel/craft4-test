@@ -1,0 +1,37 @@
+dateModified: 1690722333
+email:
+  fromEmail: mail@mmikkel.no
+  fromName: 'Servd Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2ce43c26-b289-4d93-9203-9251e4267a93: Simple # Simple
+    a9fdc249-0614-4cfc-9207-86106da77874: 'Servd Test' # Servd Test
+    af93cae1-839d-4a31-b252-16e612c17ee4: 'Servd Test' # Servd Test
+    b9d4c6c8-58db-4194-b163-8c8bc9a77e8a: Common # Common
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  imager-x:
+    edition: lite
+    enabled: true
+    licenseKey: U00D1O0YSA24RB9YSDONI4UX
+    schemaVersion: 4.0.0
+  retcon:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Servd Test'
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
